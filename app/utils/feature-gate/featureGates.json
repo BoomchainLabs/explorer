@@ -181,7 +181,7 @@
     "version": "v2.1.6",
     "testnetActivationEpoch": 763,
     "devnetActivationEpoch": 856,
-    "mainnetActivationEpoch": null,
+    "mainnetActivationEpoch": 770,
     "title": "Vote only on full fec sets",
     "description": "Only vote for blocks with sufficiently sized fec sets",
     "simd_link": null
@@ -291,7 +291,7 @@
     "version": "v2.1.8",
     "testnetActivationEpoch": 764,
     "devnetActivationEpoch": 857,
-    "mainnetActivationEpoch": null,
+    "mainnetActivationEpoch": 771,
     "title": "Raise Block Limits to 50M CUs",
     "description": null,
     "simd_link": "https://github.com/solana-foundation/solana-improvement-documents/blob/main/proposals/0207-raise-block-limits-to-50M.md"
@@ -405,5 +405,27 @@
     "title": "Raise Block Limits to 60M CU",
     "description": null,
     "simd_link": null
+  },
+  {
+    "key": "RENtePQcDLrAbxAsP3k8dwVcnNYQ466hi2uKvALjnXx",
+    "simd": "0267",
+    "version": "v2.2.8",
+    "testnetActivationEpoch": null,
+    "devnetActivationEpoch": null,
+    "mainnetActivationEpoch": null,
+    "title": "Sets rent_epoch to a constant in the VM",
+    "description": null,
+    "simd_link": "https://github.com/solana-foundation/solana-improvement-documents/blob/main/proposals/0267-rent-epoch-in-vm-is-a-constant.md"
+  },
+  {
+    "key": "FXs1zh47QbNnhXcnB6YiAQoJ4sGB91tKF3UFHLcKT7PM",
+    "simd": "0162",
+    "version": "v2.2.0",
+    "testnetActivationEpoch": null,
+    "devnetActivationEpoch": null,
+    "mainnetActivationEpoch": null,
+    "title": "Feature Gate: Remove accounts executable flag checks",
+    "description": null,
+    "simd_link": "https://github.com/solana-foundation/solana-improvement-documents/blob/main/proposals/0162-remove-accounts-executable-flag-checks.md"
   }
 ]

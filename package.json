@@ -15,7 +15,7 @@
     },
     "dependencies": {
         "@blockworks-foundation/mango-client": "^3.6.7",
-        "@bonfida/spl-name-service": "0.1.30",
+        "@bonfida/spl-name-service": "0.2.13",
         "@cloudflare/stream-react": "^1.2.0",
         "@coral-xyz/anchor": "^0.30.1",
         "@metamask/jazzicon": "^2.0.0",

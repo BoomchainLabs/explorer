@@ -37,7 +37,7 @@
         "@types/bn.js": "5.1.0",
         "axios": "^1.8.2",
         "bignumber.js": "^9.0.2",
-        "bn.js": "5.2.1",
+        "bn.js": "5.2.2",
         "bs58": "^4.0.1",
         "change-case": "^5.4.4",
         "chart.js": "^4.3.0",

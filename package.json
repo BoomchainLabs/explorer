@@ -71,7 +71,7 @@
         "remark-frontmatter": "^4.0.1",
         "remark-gfm": "^3.0.1",
         "superstruct": "^0.16.7",
-        "swr": "^2.2.0",
+        "swr": "^2.3.6",
         "tweetnacl": "^1.0.3",
         "typescript": "5.9.2",
         "use-async-effect": "^2.2.7",
